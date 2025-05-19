@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(./改图片尺寸/IMG_202412116234_2100x1284.jpg);
+
+    height: 2050px;
+}
+
+div.内容 {
+
+    width: 1400px;
+    height: 2060px;
+    border-left: 10px solid white;
+    border-right: 10px solid white;
+    margin: 0 auto;
+}
+
+div.开头 {
+    background-color: #fae204;
+    position: relative;
+    width: 1400px;
+    height: 300x;
+}
+
+
+
+div.load {
+
+    position: absolute;
+    right: 1%;
+    bottom: 1%;
+}
+
+img.logo,
+h1.title {
+    display: inline;
+    size: 36px;
+}
+
+h1.title {
+    position: absolute;
+    top: 30%;
+    color: white;
+    font-size: 30px;
+}
+
+img.logo {
+    height: 95px;
+}
+
+div.picture {
+    width: 1400px;
+    height: 933px;
+    background-color: #fff;
+    background-image: url(./images/IMG_202412096660_1400x933.jpg);
+    margin: 0 auto;
+    background-size: contain;
+    overflow: hidden;
+
+
+}
+
+.naver {
+    width: 1400px;
+    height: 100px;
+    background-color: rgb(30, 33, 210);
+    position: relative;
+}
+
+div.first {
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 75px;
+}
+
+div.second {
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 280px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 75px;
+}
+
+div.third {
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 560px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 75px;
+}
+
+div.forth {
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 840px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 75px;
+}
+
+div.fifth {
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 1120px;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 75px;
+}
+
+a.naver {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+}
+
+a.登录,
+a.注册 {
+    font-size: 40px;
+}
+
+a.naver：link {
+    color: beige;
+}
+
+a.naver:visited {
+    color: white;
+}
+
+a.naver:hover {
+    font-size: 50px;
+    color: #a2421a;
+    cursor: pointer;
+}
+
+a.naver:active {
+    color: #fff;
+
+}
+
+div.screen {
+    width: 1400px;
+    height: 933px;
+    background-color: #fae204;
+
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+div.footer {
+    text-align: center;
+    color: #fff;
+}
+html {
+    zoom:67%; 
+}
